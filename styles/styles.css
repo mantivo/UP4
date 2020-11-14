@@ -1,0 +1,47 @@
+/* 
+Up Past Four Website - Final Project
+
+Authors: Alex Cuculiza & Nick Potts
+Date: 11/14/2020 - 12/7/2020
+File Name: styles.css
+*/
+
+/* CSS Reset */
+body, header, nav, nav ul, nav li, nav li a, main, img, figure, figcaption, article, aside, section, h1, h2, h3, h4, h5, footer {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+  }
+  
+  /* Micro-Mobile Viewport: Style rules for anything less than 320px */
+
+
+  /* 320px Mobile Viewport: Media query for mobile viewport targets screen size with a minimum width of 320px. */
+  @media only screen and (min-width: 320px) {
+
+  }
+
+  
+  /* 480px Mobile Viewport: Media query for mobile viewport targets screen size with a minimum width of 480px. */
+  @media screen and (min-width: 480px) {
+
+  }
+
+  
+  /* 600px Tablet Viewport: Styles for tablet screen sizes with a minimum width of 600px */
+  @media screen and (min-width: 600px) {
+
+  }
+  
+
+  /* 1025px Desktop Viewport: Style rules for desktop screens with a maximum of 1025px */
+  @media screen and (min-width:1025px) {
+  
+  }
+
+  
+  /* Style rules for large desktop screens with a maximum of 1921px */
+  @media screen and (min-width:1921px) {
+  
+  }
