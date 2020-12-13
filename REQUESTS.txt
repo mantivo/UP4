@@ -1,6 +1,0 @@
-- Organized, not too busy
-- Viewed well on mobile devices and people can find things about their games and tutorials
-- Dark blue background, gold logo
-
-- Finish the opening page - logo in the city fog
-- Simple menu for games, tutorials, about pages : barebones templates
